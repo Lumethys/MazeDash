@@ -26,6 +26,7 @@ CELL_SIZE = 40
 STATE_MENU = "menu"
 STATE_GAME = "game"
 STATE_POPUP = "popup"
+STATE_QUIT = "quit"
 
 # Maze cell types
 WALL = 1
